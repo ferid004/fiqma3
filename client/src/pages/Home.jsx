@@ -5,6 +5,7 @@ import ByCatagory from '../component/ByCatagory'
 import BestSell from '../component/BestSell'
 import Experience from '../component/Experience'
 import OurProduct from '../component/OurProduct'
+import NewArrival from '../component/NewArrival'
 
 function Home() {
   return (
@@ -15,6 +16,7 @@ function Home() {
       <BestSell/>
       <Experience/>
       <OurProduct/>
+      <NewArrival/>
 
     </div>
   )
